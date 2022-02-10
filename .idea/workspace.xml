@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0965fe49-5d33-44c2-b8d6-43dc39feb287" name="Changes" comment="">
+    <list default="true" id="0965fe49-5d33-44c2-b8d6-43dc39feb287" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24mq0xAVsW49xgzjyC0kV7nmEHb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -117,7 +120,17 @@
       <workItem from="1644274121732" duration="2000" />
       <workItem from="1644274353892" duration="3000" />
       <workItem from="1644274924497" duration="3000" />
+      <workItem from="1644484499119" duration="50000" />
+      <workItem from="1644490599670" duration="3000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1644484538313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644484538313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>

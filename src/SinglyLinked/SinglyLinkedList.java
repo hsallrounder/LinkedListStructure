@@ -1,7 +1,5 @@
 package SinglyLinked;
 
-import java.util.Scanner;
-
 public class SinglyLinkedList {
     private int size;
     Node head;
@@ -110,13 +108,6 @@ public class SinglyLinkedList {
             }
         }
         size--;
-    }
-
-    public void deleteAtIndex(){
-        Scanner sc = new Scanner(System.in);
-        int ind = sc.nextInt();
-        sc.close();
-        deleteAtIndex(ind);
     }
 
     public void display(){
